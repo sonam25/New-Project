@@ -15,7 +15,7 @@ body {
     background-position: cover;
     background-size:cover;
     background-attachment: fixed;
-    /* overflow:scroll; */
+  
 }
 
 
@@ -149,14 +149,11 @@ footer{
     font-style: bold;
     color: black;
     position: relative;
-    /* clear: both; */
     float:right;
     width:100%
     
 }
-a {
-    text-decoration: none;
-}
+
 
 
 
@@ -287,9 +284,6 @@ footer{
     font-style: bold;
     color: black;
     
-}
-a {
-    text-decoration: none;
 }
 
 }
@@ -463,9 +457,6 @@ footer{
         color: black;
 
 
-    }
-    a {
-        text-decoration: none;
     }
     
 .main-panel1 {
